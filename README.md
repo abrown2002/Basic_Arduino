@@ -43,12 +43,14 @@ Coding for it to blink was complicated because it is not my strongest suit but I
 
 
 ### Evidence
+[Finite LED](https://create.arduino.cc/editor/abrown04/f427918e-5b24-428b-a47e-0e7d6305c545)
 
 
 ### Image
 
 
 ### Reflection
+I don't have the finite down yet but I'll get some help to finish it.
 
 
 ---
@@ -83,6 +85,7 @@ Coding again isn't my strong suit but I am going to practice more and understand
 ### Image
 
 ### Reflection
+Trying to code for this one wasn't easy because it just isn't making sense to me in my brain.
 
 
 ---
