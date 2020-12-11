@@ -40,6 +40,7 @@ Coding for it to blink was complicated because it is not my strongest suit but I
 ## Finite LED
 
 ### Description
+Make the LED blink 5 times and stop.
 
 
 ### Evidence
@@ -50,7 +51,7 @@ Coding for it to blink was complicated because it is not my strongest suit but I
 
 
 ### Reflection
-I don't have the finite down yet but I'll get some help to finish it.
+The wiring was confusing at first but now I am slowly getting back into the hang of it.
 
 
 ---
